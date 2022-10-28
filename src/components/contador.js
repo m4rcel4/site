@@ -13,7 +13,7 @@ function Contador() {
          Clique aqui
 
          </button>
-
+<Button variant="warning">Warning</Button>{' '}
 
     </div>
     )

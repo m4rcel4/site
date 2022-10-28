@@ -1,12 +1,13 @@
-
- import 'bootstrap/dist/css/bootstrap.min.css';
- import {Button} from 'react-bootstrap'
+ import 'bootstrap/dist/css/bootstrap.min.css'
+ import CollapsibleExample from './components/menu'
 
 function App() {
   return (
-    <div >
-    <Button variant="warning">Warning</Button>{' '}
-    </div>
+    <>
+    
+    <CollapsibleExample/>
+
+    </>
   );
 }
 
